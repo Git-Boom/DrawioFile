@@ -1,14 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2021-10-31T02:26:32.535Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="-_frScq-uyfN4jeWAr1H" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-31T02:27:10.392Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="tKgmo2Nok-PC9kg6hBJp" version="15.4.3" type="github">
   <diagram id="QXNELv77-1Kk8XfsfC3q" name="第 1 页">
     <mxGraphModel dx="2000" dy="1162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="i3SNS_GFR2SEXT6O1R7d-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i3SNS_GFR2SEXT6O1R7d-1" target="i3SNS_GFR2SEXT6O1R7d-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="i3SNS_GFR2SEXT6O1R7d-1" value="曝光配置模块（滚动距离、延时上报）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="150" width="190" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="i3SNS_GFR2SEXT6O1R7d-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i3SNS_GFR2SEXT6O1R7d-2" target="i3SNS_GFR2SEXT6O1R7d-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="i3SNS_GFR2SEXT6O1R7d-2" value="滚动监听模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="330" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="i3SNS_GFR2SEXT6O1R7d-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i3SNS_GFR2SEXT6O1R7d-3" target="i3SNS_GFR2SEXT6O1R7d-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i3SNS_GFR2SEXT6O1R7d-3" value="数据收集模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="150" width="210" height="100" as="geometry" />
